@@ -1,4 +1,5 @@
 ### Building and running your application
+Put the Dockerfile in the same folder as the ViSTA code and then do the following
 
 To build it:
 docker build -t vistadocker .
